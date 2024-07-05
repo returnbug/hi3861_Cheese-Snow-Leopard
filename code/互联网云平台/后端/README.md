@@ -1,0 +1,4 @@
+AMQP文件是用于接收云端转发数据
+download文件为每次检测完成之后，从阿里云共享文件夹中下载pcd数据到本地服务器，并去除无效点
+main.py为接口文件，用Flask框架
+pcdtopng为pcd文件转为图片

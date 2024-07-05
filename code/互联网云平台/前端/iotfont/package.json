@@ -1,0 +1,35 @@
+{
+  "name": "iotfont",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "axios": "^1.6.8",
+    "core-js": "^3.8.3",
+    "dat.gui": "^0.7.9",
+    "element-plus": "^2.7.3",
+    "three": "^0.164.1",
+    "vue": "^3.2.13",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^14.2.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
